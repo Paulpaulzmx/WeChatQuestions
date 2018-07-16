@@ -1,6 +1,6 @@
 ﻿# WeChatQuestions
 ---
-##一、使用方法
+## 一、使用方法
 1. 进入微信公众平台。
 2. 申请测试号扫码登录，网址 https://open.weixin.qq.com。
 3. 登陆后自动获取appID和appsecret，将其填入MenuSetting.java中的声明处(每次获取测试号后都不一样）。
